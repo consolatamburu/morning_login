@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">morning_login</string>
+    <string name="enter_phonenumber">Enter phoneNumber</string>
+    <string name="registration_page">Registration page</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="input_password">Input password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account_click_to_login">Already have an account?Click to login</string>
+</resources>
